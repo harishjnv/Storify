@@ -1,7 +1,7 @@
-# storify
+# Storify
 
 
-make sure you mongodb server is installed and running.
+make sure your mongodb server is installed and running.
 
 In mac, you can install mongo using `brew install mongodb` & run using `brew services start mongo`
 
